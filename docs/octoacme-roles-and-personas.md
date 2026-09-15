@@ -78,120 +78,145 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## Scrum Masters / Delivery Leads
 
 ### Role Summary
-Scrum Masters and Delivery Leads keep delivery moving smoothly by facilitating team ceremonies, surfacing blockers early, and clarifying escalation paths when work is at risk. They focus on team flow, predictable execution, and continuous improvement.
+Scrum Masters and Delivery Leads support the day-to-day flow of work. They help teams run effective ceremonies, remove blockers, and make sure delivery commitments stay realistic and visible.
 
 ### Responsibilities
-- Facilitate standups, sprint planning, reviews, and retrospectives
-- Track blockers, dependencies, and delivery risks with Developers and Project Managers
-- Escalate impediments that require staffing, scope, or timeline decisions
-- Reinforce working agreements and help the team maintain focus on sprint goals
-- Partner with Product Managers to keep priorities clear during active delivery
+- Facilitate standups, sprint planning, backlog refinement, reviews, and retrospectives
+- Track blockers, follow through on action items, and escalate delivery risks early
+- Coach the team on working agreements, flow efficiency, and continuous improvement
+- Partner with the Project Manager to keep timelines, scope, and dependencies visible
 
 ### Goals
-- Improve delivery predictability and team throughput
-- Reduce unresolved blockers and handoff delays
-- Create actionable follow-through from retrospectives
+- Keep delivery predictable and sustainable
+- Improve team focus, throughput, and follow-through
+- Surface risks and impediments before they become missed commitments
 
 ### Typical Communication
-- Daily coordination with Developers on progress, blockers, and handoffs
-- Ongoing alignment with Project Managers on schedule risk and escalation needs
-- Sprint health updates for Product Managers and stakeholders when commitments change
+- Daily coordination with Developers and QA during active delivery
+- Regular planning and status syncs with the Project Manager and Product Manager
+- Escalation updates when blockers require stakeholder support
+
+### Interactions with Existing Roles
+- Works with Project Managers to hand off blocker status, sprint health, and escalation needs
+- Partners with Product Managers to prepare refinement sessions and clarify upcoming priorities
+- Supports Developers by removing process friction and protecting focus during execution
+- Engages Stakeholders when delivery issues or dependencies require fast decisions
 
 ---
 
 ## Business Analysts
 
 ### Role Summary
-Business Analysts translate business needs into clear, actionable requirements. They help close gaps between stakeholders, Product Managers, Project Managers, and Developers so work can move forward with fewer misunderstandings.
+Business Analysts translate business needs into clear, actionable requirements. They help the team understand the problem, refine scope, and document process details needed for smooth execution.
 
 ### Responsibilities
-- Refine requirements, workflows, and acceptance details before implementation starts
-- Document business rules, dependencies, and assumptions that affect delivery
-- Clarify open questions with stakeholders and route decisions to the right owner
-- Support Project Managers with impact analysis when scope or priorities change
-- Help Developers and QA understand expected outcomes and edge cases
+- Gather and document requirements, workflows, assumptions, and constraints
+- Refine user stories and acceptance criteria with Product Managers and delivery teams
+- Trace open questions, decisions, and dependencies across teams
+- Support validation of delivered work against business needs
 
 ### Goals
-- Reduce ambiguity in requirements and downstream rework
-- Improve handoff quality from discovery to implementation
-- Strengthen traceability between business needs and delivered outcomes
+- Reduce ambiguity before work begins
+- Improve handoffs between stakeholders, product, and delivery teams
+- Ensure requirements stay aligned with business outcomes
 
 ### Typical Communication
-- Requirement walkthroughs with Product Managers, Developers, and QA
-- Stakeholder interviews and follow-up on open decisions
-- Change-impact summaries for Project Managers when requests affect scope or timelines
+- Discovery and refinement sessions with stakeholders and Product Managers
+- Requirement walkthroughs with Developers, QA, and Project Managers
+- Follow-up documentation in specs, decision logs, or process notes
+
+### Interactions with Existing Roles
+- Works with Product Managers to translate goals and priorities into detailed requirements
+- Partners with Project Managers to expose dependencies, scope changes, and approval checkpoints
+- Supports Developers and QA with clarifications that reduce rework during implementation and testing
+- Helps Stakeholders review trade-offs, confirm assumptions, and close open questions
 
 ---
 
 ## UX/UI Designers
 
 ### Role Summary
-UX/UI Designers define user flows, interaction patterns, and interface direction so the team can build solutions that are usable and consistent. They provide design clarity before development and support implementation validation during delivery.
+UX/UI Designers define how solutions should work and feel for end users. They help teams turn product goals into usable workflows, interfaces, and validation plans.
 
 ### Responsibilities
-- Create wireframes, prototypes, and design specifications for prioritized work
-- Collaborate with Product Managers to balance user needs, business goals, and scope
-- Hand off designs to Developers with clear behavior, states, and accessibility expectations
-- Review implementation with Developers and QA to confirm the intended experience
-- Identify usability risks and escalate unresolved experience trade-offs to product leadership
+- Create user flows, wireframes, prototypes, and interface guidance
+- Validate usability assumptions through research, feedback, or lightweight testing
+- Collaborate with Product Managers and Developers on experience trade-offs
+- Document design decisions that affect scope, accessibility, and acceptance criteria
 
 ### Goals
-- Improve usability, consistency, and accessibility
-- Reduce design-related rework during implementation
-- Ensure product decisions are grounded in user experience considerations
+- Improve usability, clarity, and accessibility of delivered solutions
+- Reduce implementation churn caused by unclear interaction design
+- Align user needs with product and technical constraints
 
 ### Typical Communication
-- Design reviews with Product Managers and Developers before implementation begins
-- Clarification sessions with Developers during build and QA cycles
-- Experience trade-off discussions with stakeholders when scope or timelines affect quality
+- Design reviews with Product Managers, Developers, and stakeholders
+- Async feedback cycles on prototypes and interface decisions
+- Handoffs that capture design intent, edge cases, and acceptance expectations
+
+### Interactions with Existing Roles
+- Works with Product Managers to align user needs, priorities, and success criteria
+- Partners with Developers to hand off designs, answer implementation questions, and resolve feasibility concerns
+- Supports QA by clarifying expected behavior, visual states, and usability edge cases
+- Helps Project Managers anticipate design dependencies that may affect planning and sequencing
 
 ---
 
 ## Release Managers
 
 ### Role Summary
-Release Managers coordinate the transition from completed work to production readiness. They clarify release ownership, confirm handoffs across teams, and manage escalation when release criteria or timelines are at risk.
+Release Managers coordinate the path from "ready to ship" to "successfully deployed." They focus on release readiness, communication, rollback planning, and cross-team alignment during launches.
 
 ### Responsibilities
-- Coordinate release calendars, readiness checks, and go/no-go criteria
-- Confirm dependencies across Developers, QA, and operational stakeholders before launch
-- Manage release communications, deployment timing, and rollback planning
-- Escalate unresolved release risks to Project Managers, Product Managers, and leadership as needed
-- Capture post-release follow-up items and feed them back into team planning
+- Prepare release checklists, go/no-go reviews, and deployment coordination
+- Confirm that dependencies, approvals, support plans, and rollback steps are in place
+- Coordinate release timing, stakeholder communication, and post-release verification
+- Track release risks and escalate unresolved readiness issues
 
 ### Goals
-- Deliver releases with clear ownership and minimal disruption
-- Reduce last-minute surprises in deployment and communication
-- Improve confidence in release readiness and recovery planning
+- Deliver safe, well-coordinated releases
+- Reduce launch-day confusion and avoidable incidents
+- Make ownership clear for release decisions and follow-up actions
 
 ### Typical Communication
 - Release readiness reviews with Developers, QA, and Project Managers
-- Launch status updates for Product Managers, stakeholders, and support teams
-- Post-release summaries covering outcomes, incidents, and required follow-up
+- Launch communications to stakeholders, support teams, and affected partners
+- Post-release check-ins to confirm deployment health and next steps
+
+### Interactions with Existing Roles
+- Works with Project Managers to align release milestones, approvals, and escalation paths
+- Partners with Developers and QA to confirm readiness, test coverage, and rollback expectations
+- Coordinates with Product Managers on launch scope, timing, and stakeholder messaging
+- Escalates to Stakeholders when business approval or incident decisions are needed
 
 ---
 
 ## Technical Writers / Documentation Owners
 
 ### Role Summary
-Technical Writers and Documentation Owners ensure process, release, and user-facing documentation stays accurate as the product evolves. They make documentation ownership explicit so knowledge handoffs are not lost during delivery or release.
+Technical Writers and Documentation Owners make sure critical process, release, and user-facing information stays accurate and usable. They help teams preserve context and reduce confusion during handoffs.
 
 ### Responsibilities
-- Maintain process documentation, release notes, and user guidance for delivered changes
-- Work with Product Managers, Project Managers, and Developers to capture decisions and updates
-- Identify documentation gaps that could block onboarding, support, or adoption
-- Coordinate review and approval of critical documentation before release milestones
-- Escalate missing or outdated documentation when it creates delivery or support risk
+- Maintain process documents, release notes, onboarding content, and user guidance
+- Identify documentation gaps during planning, execution, and release preparation
+- Partner with subject matter experts to keep instructions current and complete
+- Track documentation ownership and publishing readiness for major changes
 
 ### Goals
-- Keep institutional knowledge accurate and easy to find
-- Improve handoffs from delivery teams to users, support, and future contributors
-- Reduce confusion caused by stale or incomplete documentation
+- Reduce knowledge loss across teams and handoffs
+- Improve readiness for onboarding, support, and release adoption
+- Keep documentation aligned with how the team actually works
 
 ### Typical Communication
-- Documentation check-ins with Developers and Product Managers during active work
-- Review coordination with Project Managers around milestone and release deadlines
-- Publication updates tied to release activities and retrospective follow-up
+- Review cycles with Product Managers, Project Managers, and Developers
+- Release-note coordination with Release Managers and support stakeholders
+- Follow-up updates after retrospectives, process changes, or feature launches
+
+### Interactions with Existing Roles
+- Works with Project Managers to keep process documentation current as delivery practices evolve
+- Partners with Product Managers, Developers, and UX/UI Designers to capture feature intent and usage guidance
+- Coordinates with Release Managers to publish release notes and handoff materials on time
+- Helps Stakeholders and new team members find reliable information during escalations and transitions
 
 ---
 
